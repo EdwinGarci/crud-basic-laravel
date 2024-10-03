@@ -14,7 +14,7 @@ Pasos para instalar y configurar el proyecto en tu entorno local.
 
 1. Clona el repositorio:
 ```
-
+git clone https://github.com/EdwinGarci/crud-basic-laravel.git
 ```
 
 2. Instala las dependencias con Composer:
